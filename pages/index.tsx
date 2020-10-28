@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Layout, { siteTitle } from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
+import utilStyles from '../styles/utils.module.scss'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
@@ -17,7 +17,7 @@ export default function Home({
 }) {
   return (
     <Layout home>
-      <Head>
+      {/* <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
@@ -42,7 +42,8 @@ export default function Home({
             </li>
           ))}
         </ul>
-      </section>
+      </section> */}
+      <div className={utilStyles.supa}>STYLING TEST</div>
     </Layout>
   )
 }
