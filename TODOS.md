@@ -1,5 +1,6 @@
 # Todos:
 - [x] Change css to scss as default css 
+- [] Add stable Docker image for fast deployment
 - [] Learn about folders and naming convenctions
 - [] Best practices
 - [] CLI to create pages and maybe more stuff
@@ -9,8 +10,8 @@
 - [] Learn about _error
 - [] Learn and implement about getStaticProps
 - [] Learn and implement about getServerSideProps
-- [] Add material-ui
-- [] Learn how to use and style material ui
+- [x] Add material-ui
+- [] Learn how to use and style material ui and document
 - [] Learn about SEO (bases)
 - [] Learn about assets
 - [] Learn about performance
