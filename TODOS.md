@@ -6,7 +6,11 @@
 - [] Add some information about HEAD and meta tags
 - [] Learn, implement _document
 - [] learn about _app
+- [] Learn about _error
 - [] Learn and implement about getStaticProps
-- [] Learn and implement about something server props
+- [] Learn and implement about getServerSideProps
 - [] Add material-ui
 - [] Learn how to use and style material ui
+- [] Learn about SEO (bases)
+- [] Learn about assets
+- [] Learn about performance
