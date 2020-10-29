@@ -21,4 +21,4 @@ Keep components and style sheets together
 
 # General Information: 
 ## Importing files:
-- Next will recognice component's folders and no need to "nest " the import so components/Layout/layout would be components/layout.
+- import components/ComponentName/componentName
