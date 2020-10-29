@@ -17,8 +17,8 @@ This is a modified template based on the started plate from [Learn Next.js](http
 
 # Design rules and CSS (SCSS)
 ## Componets and stylesheets 
-Keep compoenents and style sheets together
+Keep components and style sheets together
 
 # General Information: 
 ## Importing files:
-- Next will recognice component's folders and no need to "nest " the import so components/Layout/layout woule be components/layout.
+- Next will recognice component's folders and no need to "nest " the import so components/Layout/layout would be components/layout.
