@@ -11,3 +11,7 @@
 - added _document.tsx
 - added Roboto font
 
+## 2020-10-30:
+- Added material/component route/page
+- Added material layouts
+- added todo of material components
