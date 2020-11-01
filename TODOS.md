@@ -14,4 +14,4 @@
 - [] Learn how to use and style material ui and document
 - [] Learn about SEO (bases)
 - [] Learn about assets
-- [] Learn about performance
+- [] Learn about performance (bases)

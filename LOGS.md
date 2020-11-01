@@ -15,3 +15,7 @@
 - Added material/component route/page
 - Added material layouts
 - added todo of material components
+
+## 2020-10-31: 
+- Added buttons snipet
+- 
