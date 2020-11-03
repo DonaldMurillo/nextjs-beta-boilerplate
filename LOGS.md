@@ -19,3 +19,8 @@
 ## 2020-10-31: 
 - Added buttons snipet
 - 
+
+## 2020-11-02: 
+- added todos
+- added fabs accordion
+- tried to use makestyles a named function but did not work

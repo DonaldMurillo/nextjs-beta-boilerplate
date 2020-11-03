@@ -2,6 +2,7 @@ import { makeStyles, Theme, createStyles, Accordion, AccordionDetails, Accordion
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import React from "react";
 import MatButtons from "../MatSnipets/Buttons/MatButtons";
+import MatFabs from "../MatSnipets/Buttons/MatFabs";
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -52,13 +53,10 @@ export default function MatLayout({
           </Accordion>
           <Accordion>
             <AccordionSummary expandIcon={<ExpandMoreIcon />} aria-controls="panel2a-content" id="panel2a-header">
-              <Typography className={classes.heading}>Accordion 2</Typography>
+              <Typography className={classes.heading}>Fabs</Typography>
             </AccordionSummary>
             <AccordionDetails>
-              <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex,
-                sit amet blandit leo lobortis eget.
-              </Typography>
+              <MatFabs></MatFabs>
             </AccordionDetails>
           </Accordion>
           <Accordion disabled>

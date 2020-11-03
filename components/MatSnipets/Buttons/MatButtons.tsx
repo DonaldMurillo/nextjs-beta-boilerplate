@@ -1,5 +1,6 @@
 import { makeStyles, Theme, createStyles, Button } from "@material-ui/core";
 import React from "react";
+import css from '../Buttons/buttons.module.scss'
 
 const styles = {
     width: 600,
@@ -21,12 +22,16 @@ const styles = {
 //         }),
 // );
 
+//TODO: ADD TOGGLE TO CHANGE COLOR/THEME
+//TODO: ADD TOGGLE TO CHANGE TYPE
+//TODO: ADD TOGGLE TO CHANGE SIZE, FONT SIZE ETC
+
 export default function MatButtons() {
 
     // const classes = useStyles();
     return (
         
-        <div style={styles}>
+        <div className={css.btnBase}>
             <Button variant="contained">Default</Button>
             <Button variant="contained" color="primary">Primary</Button>
             <Button variant="contained" color="secondary">Secondary</Button>

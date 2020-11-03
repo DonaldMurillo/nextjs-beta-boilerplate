@@ -11,7 +11,11 @@
 - [] Learn and implement about getStaticProps
 - [] Learn and implement about getServerSideProps
 - [x] Add material-ui
+- [x] Add material-ui/icons
 - [] Learn how to use and style material ui and document
 - [] Learn about SEO (bases)
 - [] Learn about assets
 - [] Learn about performance (bases)
+- [] The translator
+- [] Load CDN on demand (defferent cdns in different pages)
+- [] dot env files (library) https://www.npmjs.com/package/dotenv
